@@ -73,17 +73,18 @@ Admin functionality:
 
 **⚙️ Environment Variable Setup**
 🔧 **Backend (backend/.env)**
-SUPABASE_URL=your_supabase_project_url
-SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-OPENWEATHER_API_KEY=your_openweather_api_key
-GOOGLE_API_KEY=optional_for_ai_or_maps
+- SUPABASE_URL=your_supabase_project_url
+- SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+- OPENWEATHER_API_KEY=your_openweather_api_key
+- GOOGLE_API_KEY=optional_for_ai_or_maps
 
 🎨 **Frontend (frontend/.env)**
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+- VITE_SUPABASE_URL=your_supabase_project_url
+- VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 🏆 **Why Kisan-Sarthi**
 ✅ Solves real-world farmer problems
 ✅ End-to-end agriculture assistance platform
 ✅ Clean UX for non-technical users
 ✅ Hackathon-ready and startup-scalable
+
