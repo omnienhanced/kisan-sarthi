@@ -1,6 +1,5 @@
 **🌾 Kisan-Sarthi**
 AI-Powered Soil Analysis & Crop Recommendation System
-
 Kisan-Sarthi is a full-stack agriculture intelligence platform designed to help farmers make informed decisions using soil analysis, crop recommendations, document management, and government scheme discovery.
 
 📁 **Project Location**
@@ -87,5 +86,6 @@ Admin functionality:
 - ✅ End-to-end agriculture assistance platform
 - ✅ Clean UX for non-technical users
 - ✅ Hackathon-ready and startup-scalable
+
 
 
