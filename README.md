@@ -83,8 +83,9 @@ Admin functionality:
 - VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 🏆 **Why Kisan-Sarthi**
-✅ Solves real-world farmer problems
-✅ End-to-end agriculture assistance platform
-✅ Clean UX for non-technical users
-✅ Hackathon-ready and startup-scalable
+- ✅ Solves real-world farmer problems
+- ✅ End-to-end agriculture assistance platform
+- ✅ Clean UX for non-technical users
+- ✅ Hackathon-ready and startup-scalable
+
 
