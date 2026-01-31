@@ -85,7 +85,8 @@ Admin functionality:
 - ✅ Solves real-world farmer problems
 - ✅ End-to-end agriculture assistance platform
 - ✅ Clean UX for non-technical users
-- ✅ Hackathon-ready and startup-scalable
+- ✅ Hackathon-ready and startup-scalable.
+
 
 
 
